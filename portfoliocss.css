@@ -1,0 +1,163 @@
+#logo{
+    height: 40px;
+    width: 40px;}
+#shop{
+    height: 30px;
+    width: 40px;}
+#navbar2{
+    margin-top: -45px;
+    width:  350px;
+}
+#navbar1{
+    width: 300px;
+}
+body{
+    background-color: rgb(245, 245, 220);
+}
+#navit{
+    color: black;
+    font-style: italic;
+    font-size: large;
+    text-decoration: none;
+}
+#welc{
+    margin-top: 80px;
+    margin-left: 30px;
+}
+#welco{
+    width: 350px;
+    font-size: large;
+    margin-top: 10px;
+    
+}
+#ptab{
+    margin-left: 70px;
+    border: 5px;
+    border-style: double;
+    border-radius: 20px;
+    padding: 5px;
+    margin-right: 700px;
+}
+#tabami{
+    margin-left: 600px;
+    margin-top: -230px;
+    border: 5px;
+}
+.footer-basic {
+    margin-top: 100px;
+    padding:40px 0;
+    background-color:rgb(245, 245, 220);
+    color:#4b4c4d;
+  }
+  
+  .footer-basic ul {
+    padding:0;
+    list-style:none;
+    text-align:center;
+    font-size:18px;
+    line-height:1.6;
+    margin-bottom:0;
+  }
+  
+  .footer-basic li {
+    padding:0 10px;
+  }
+  
+  .footer-basic ul a {
+    color:inherit;
+    text-decoration:none;
+    opacity:0.8;
+  }
+  
+  .footer-basic ul a:hover {
+    opacity:1;
+  }
+  
+  .footer-basic .social {
+    text-align:center;
+    padding-bottom:25px;
+  }
+  
+  .footer-basic .social > a {
+    font-size:24px;
+    width:40px;
+    height:40px;
+    line-height:40px;
+    display:inline-block;
+    text-align:center;
+    border-radius:50%;
+    border:1px solid #ccc;
+    margin:0 8px;
+    color:inherit;
+    opacity:0.75;
+  }
+  
+  .footer-basic .social > a:hover {
+    opacity:0.9;
+  }
+  
+  .footer-basic .copyright {
+    margin-top:15px;
+    text-align:center;
+    font-size:13px;
+    color:#aaa;
+    margin-bottom:0;
+  }
+  .product-section {
+    padding-left:15px;
+    padding-right:15px;
+    margin-bottom:20px;
+  }
+  
+  
+  .product-img-center {
+    text-align:center;
+  }
+  .product-border {
+    border: 3px solid #d1d1d1;
+    padding:20px;
+  }
+  .product-name a {
+    color: #232b33;
+    text-decoration: none;
+    font-size: 17px;
+    font-family Roboto, sans-serif, arial;
+  }
+  .product-rating {
+    color: #FFC315;
+    font-size: 14px;
+    padding-top: 6px;
+  }
+  .product-rating span {
+    font-weight: 600;
+    color: #3c3b3b8c;
+    font-size: 12px;
+    font-family Roboto, sans-serif, arial;
+  }
+  .product-discounted-price {
+    color: #333;
+    font-size: 18px;
+    letter-spacing: 0.1px;
+    font-weight: 600;
+    font-family Roboto, sans-serif, arial;
+  }
+  .product-original-price {
+    color: #6f6f6f;
+    text-decoration: line-through;
+    font-size:14px;
+    font-family "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+  .product-discount {
+    border: 1px solid #ccc;
+    background: #fff;
+    display: inline-block;
+    font-size: 10px;
+    color: #999;
+    padding: 5px;
+    border-radius: 1px;
+    float:right;
+  }
+  .product-price {
+    margin-top:15px;} 
+    
+  
